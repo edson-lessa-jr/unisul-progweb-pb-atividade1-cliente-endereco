@@ -4,13 +4,19 @@ Criar um backend em que uma api possa realizar chamadas que retornem formatos JS
 
 ## Problema
 Relizar o registro de cliente com seu respectivo endereço.
-Listar todos os clientes cadastrados.
-Possibilitar o cadastro de novos endereços
-Possibilitar listar todos os endereços
-Possibilitar consultar o endereço por CEP. (Considerar um CEP por registro)
+**Possibilitar**
+* Listar todos os clientes cadastrados.
+* Cadastrar novos clientes
+* Alterar clientes
+* Excluir clientes
+* Cadastro de novos endereços
+* Listar todos os endereços
+* Consultar o endereço por CEP. 
+(Considerar um CEP por registro)
+* Alterar endereços
 
 ## Prazo
-A Atividade deverá ser desenvolvida na sala de aula as 5º
+A Atividade deverá ser desenvolvida na sala de aula as 6º
 Data de apresentação 15/10.
 
 ### Informações adicionais
